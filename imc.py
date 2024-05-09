@@ -1,5 +1,5 @@
 '''
-determina que  tipo de triangulo é
+determina qual é o triangulo
 '''
 altura=float(input())
 peso=float(input())

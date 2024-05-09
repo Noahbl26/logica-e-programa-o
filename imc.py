@@ -1,5 +1,5 @@
 '''
-determina qual é o triangulo
+determina imc
 '''
 altura=float(input())
 peso=float(input())
